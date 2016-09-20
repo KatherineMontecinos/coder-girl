@@ -1,11 +1,12 @@
 header {
-	padding-top: 120px;
-	background-image: url('../img/home.jpg');s
+	padding-top: 10%;
+	background-image: url('../img/home.jpg');
+	background-size: cover;
 	background-position: center;
 	height: 400px;
 }
 
- header h1 {
+header h1 {
 	color: white;
 }
 
