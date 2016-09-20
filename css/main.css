@@ -1,0 +1,38 @@
+header {
+	padding-top: 120px;
+	background-image: url('../img/home.jpg');s
+	background-position: center;
+	height: 400px;
+}
+
+ header h1 {
+	color: white;
+}
+
+section {
+	padding: 5% 0;
+}
+
+h2 {
+	padding-bottom: 5%;
+}
+
+.fondo {
+	background-color: #FFFF00;
+	height: 50%;
+}
+
+.texto {
+	padding-top: 5%;
+}
+
+footer {
+	background-color: #4497A3;
+	height: 100px;
+	padding: 3% 0;
+
+}
+
+span {
+	color: yellow;
+}
